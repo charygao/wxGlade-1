@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: wxGlade
+Version: 0.7.2
+Summary: GUI designer written in Python with the popular GUI toolkit wxPython
+Home-page: http://wxglade.sourceforge.net/
+Author: Carsten Grohmann
+Author-email: mail@carstengrohmann.de
+License: MIT License
+Description: wxGlade is a GUI designer written in Python with the popular GUI toolkit
+        wxPython, that helps you create wxWidgets/wxPython user interfaces. At
+        the moment it can generate Python, C++, Perl, Lisp and XRC (wxWidgets'
+        XML resources) code.
+Platform: WIN32
+Platform: OSX
+Platform: POSIX
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 2 :: Only
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: Software Development :: User Interfaces
+Classifier: User Interface :: Textual :: Command-line
+Classifier: User Interface :: Toolkits/Libraries :: wxWidgets
